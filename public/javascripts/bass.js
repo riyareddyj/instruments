@@ -1,3 +1,3 @@
 function back() {
-            location.href="/home/dispatchtrack/blog/public/drums.html";
+            location.href="drums.html";
 }

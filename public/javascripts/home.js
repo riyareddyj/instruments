@@ -1,3 +1,3 @@
 function next() {
-            location.href="/home/dispatchtrack/blog/public/guitar.html";
+            location.href="guitar.html";
 }

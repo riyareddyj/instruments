@@ -1,6 +1,6 @@
 function back() {
-            location.href="/home/dispatchtrack/blog/public/guitar.html";
+            location.href="guitar.html";
 }
 function next() {
-            location.href="/home/dispatchtrack/blog/public/bass.html";
+            location.href="bass.html";
 }
