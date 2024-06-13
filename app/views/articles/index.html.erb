@@ -1,0 +1,29 @@
+<html>
+
+<head>
+<link rel = "stylesheet" href = "app/assets/stylesheets/application.css">
+</head>
+
+<body>
+
+<center> 
+<form>
+<label for="username">Username:</label>
+<input type="text" id="username" name="username">
+<br><br>
+<label for="password">Password:</label>
+<input type="password" id="password" name="password">
+<br><br>
+<button id = "myButton"> submit </button> 
+</form>
+</center>
+
+<script>
+const button = document.getElementById('myButton');
+  button.addEventListener('click', function() {
+    alert('Button clicked!');
+  });
+</script>
+
+</body>
+</html>
